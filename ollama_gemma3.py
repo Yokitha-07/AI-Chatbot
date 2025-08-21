@@ -1,7 +1,6 @@
 from langchain_ollama import OllamaLLM
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
-from langchain_community.llms import Ollama
 import streamlit as st
 
 st.title("Yokitha's Chat Bot")
@@ -17,3 +16,4 @@ chain = prompt|llm|output_parser
 
 if input_txt:
   st.write(chain.invoke({"query":input_txt}))
+
