@@ -31,6 +31,6 @@ This project demonstrates how to integrate LLMs with a user-friendly interface, 
 
 👩‍💻 Author
 
-###Yokitha R.
+### Yokitha R.
 AI & Data Science Enthusiast
 📍 University of Peradeniya, Sri Lanka
