@@ -28,3 +28,9 @@ This project demonstrates how to integrate LLMs with a user-friendly interface, 
 -Ollama (local LLM runner)
 
 -Streamlit (frontend)
+
+👩‍💻 Author
+
+###Yokitha R.
+AI & Data Science Enthusiast
+📍 University of Peradeniya, Sri Lanka
