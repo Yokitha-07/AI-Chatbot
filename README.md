@@ -29,8 +29,9 @@ This project demonstrates how to integrate LLMs with a user-friendly interface, 
 
 -Streamlit (frontend)
 
-👩‍💻 Author
 
-### Yokitha R.
+## 👩‍💻 Author
+
+Yokitha R.
 AI & Data Science Enthusiast
 📍 University of Peradeniya, Sri Lanka
